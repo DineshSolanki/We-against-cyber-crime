@@ -1,5 +1,5 @@
 # We-against-cyber-crime
-WACc (prononuced - Waaa-k)(here in reffered to 'the program') is an AI program aimed to educating people to take actions against any form of Cyber-Crime and Cyberbullying.
+WACc (prononuced - Waaa-k)(here in reffered to 'the program') is an AI program aimed at educating people to take action against any form of Cyber-Crime and Cyberbullying.
 The program works by analyzing any user provided content or by pointing to any content such as emails, text scripts, Pictures. 
 
 the program suggests the user if the content comes under any law such as _"Hacking and Data theft under section 43 and 66 of IT Act", "Offensive messages under section 66A"._
